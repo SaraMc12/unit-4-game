@@ -4,7 +4,7 @@ console.log(numberGuess)
 var winsCounter = 0
 var lossesCounter = 0
 var sum = 0
-var gemImg = ["./assets/green gem.jpg", "./assets/purple gem.jpg", "./assets/yellow.jpg", "./assets/red gem.jpg"]
+var gemImg = ["./assets/green gem.jpg", "./assets/bluegem.jpg", "./assets/yellow.jpg", "./assets/red gem.jpg"]
 
 
 
